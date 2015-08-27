@@ -4,7 +4,7 @@
 	 git init
 
 ### create a README.md file
-	touch README.md && vim touch README.md
+	vim touch README.md
 	
 ### Copy this code in README.md
 ```
