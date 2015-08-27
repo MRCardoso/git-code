@@ -21,6 +21,7 @@
 
 ### push the file for repository in github
 	git push origin master
+use 'esc :wq' to save the file and go back terminal
 ```
 ### add README.md
 	git add README.md
