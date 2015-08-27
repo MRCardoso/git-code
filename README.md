@@ -10,7 +10,7 @@
 	git commit -m "my first commit"
 
 ## create a remote repository
-	git remote add origin url@your-repository.git
+	git remote add origin git@github.com:MRCardoso/git-code.git
 
 ## push the file for repository in github
 	git push origin master
