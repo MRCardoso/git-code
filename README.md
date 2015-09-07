@@ -16,5 +16,5 @@ with vim use 'esc :wq' to save the file and go back terminal
 
 ```
 
-#***thanks code.education for this knowledge acquired!***
+###***Thanks code.education for this knowledge acquired!***
 
