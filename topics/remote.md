@@ -22,4 +22,4 @@ or https (authentication by your credentials of the github)
 	git clone [url-repository] [dir-name](optional)
   
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/commit.md) |
-[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/branch.md)
+[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/push.md)
