@@ -15,4 +15,5 @@
 	git push origin :refs/tags/0.1.0
 
 
-[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics)
+[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/branch.md)
+[home](https://github.com/MRCardoso/git-code/blob/master/topics)
