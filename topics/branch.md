@@ -1,4 +1,4 @@
-## Topic branchs
+## Topic branch
 ```
 	When a new branch is created, he will have all files according the current branch,
 bus this new branch exists only locally, for he exist also in the remote repository
