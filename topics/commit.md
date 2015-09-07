@@ -1,11 +1,12 @@
 ## Topic commit
-
+```
+get all changes that are in stage area
+and create a version for this changes
+when your digit 'git commit' and press [ENTER]
+your editor default will be open for you set your message
+```
 ### simple commit
     git commit -m "message"
-
-### write a long message
-    git commit
-    (your editor default will be open for you set your message)
     
 ### add and commit
     git commit -a -m "message"
