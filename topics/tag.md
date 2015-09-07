@@ -13,10 +13,4 @@
 ### List all tags
 	git tag -l
 
-### Sending to remote repository
-	git push origin master --tags
-
-### Remove in the remote repository
-	git push origin :refs/tags/name-tag
-
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/checkout.md)
