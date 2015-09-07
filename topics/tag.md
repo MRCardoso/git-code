@@ -1,9 +1,10 @@
 
 ### Create a tag
 	git tag name-tag
-* -a create a annotation
-* hash-commit after '-a' create in an old commit
-* -m "message" set a message
+	*parameters*
+	* -a create a annotation
+	* hash-commit after '-a' create in an old commit
+	* -m "message" set a message
 
 ### show details of the a tag
 	git show name-tag
