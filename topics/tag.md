@@ -13,7 +13,7 @@
 	git checkout 
 	parameters 
 	* -b branch-name | create a new branch in a specify tag
-	* tag-name
+	* name-tag
 	
 ### list the all tags
 	git tag -l
@@ -22,9 +22,7 @@
 	git push origin master --tags
 
 ### remove a tag
-#### locally
-	git tag -d name-tag
-#### remote
-	git push origin :refs/tags/name-tag
+* git tag -d name-tag | locally
+* git push origin :refs/tags/name-tag | remote
 
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/branch.md)
