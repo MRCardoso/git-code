@@ -6,4 +6,5 @@
 ### create remote repositories
 ### sent to remote repository
 ### get changes of the remote repository
-and more...
+and more... 
+[begin now](https://github.com/MRCardoso/git-code/blob/master/topics/basic.md)
