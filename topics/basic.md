@@ -16,6 +16,5 @@
 ### push the file for repository in github
 	git push origin master
 
-[home](https://github.com/MRCardoso/git-code/blob/master/topics) |
-[branch](https://github.com/MRCardoso/git-code/blob/master/topics/branch.md) |
-[tag](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md) 
+[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics) |
+[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/branch.md)
