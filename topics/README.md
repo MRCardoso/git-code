@@ -1,9 +1,10 @@
 ## Early configurations
-
-  > git config --global user.name "your-username"
-
-  > git config --global user.email "your-email"
-  
+```
+  username
+    git config --global user.name "your-username"
+  email
+    git config --global user.email "your-email"
+```
 ### Three stages  
 
 * (work directory | modifying files)
@@ -11,6 +12,6 @@
 * (sending to repository | git commit)
 
 ### init a repository
-  git init
+    git init
   
 [begin now](https://github.com/MRCardoso/git-code/blob/master/topics/basic.md)
