@@ -1,4 +1,3 @@
-## Speak about *tags*
 
 ### Create a tag
 	git tag 0.1.0
@@ -16,5 +15,4 @@
 	git push origin :refs/tags/0.1.0
 
 
-[home](https://github.com/MRCardoso/git-code/blob/master/topics) | 
-[branch](https://github.com/MRCardoso/git-code/blob/master/topics/branch.md)
+[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics)
