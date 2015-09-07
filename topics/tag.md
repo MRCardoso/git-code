@@ -15,7 +15,7 @@
 	* -b branch-name | create a new branch in a specify tag
 	* name-tag
 	
-### List the all tags
+### List all tags
 	git tag -l
 
 ### Sending to remote repository
