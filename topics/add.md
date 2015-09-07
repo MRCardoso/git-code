@@ -7,5 +7,5 @@
 ### All files of the extension
     git add *.extension
     
-[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md) |
+[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/basic.md) |
 [next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/commit.md) 
