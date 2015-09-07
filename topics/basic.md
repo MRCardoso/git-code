@@ -19,4 +19,4 @@
 ### push the file for repository in github
 	git push origin master
 
-[chapter tags](https://github.com/MRCardoso/git-code/blob/master/tag.md)
+[chapter tags](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md)
