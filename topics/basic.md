@@ -17,4 +17,4 @@
 	git push origin master
 
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics) |
-[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/branch.md)
+[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/add.md)
