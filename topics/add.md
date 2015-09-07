@@ -1,7 +1,7 @@
 ## Topic add files in the staged area
 ```
 get the file change located in your work copy
-and sends to stage area
+and sends to staged area
 for unversioned files you must use 'git add filename'
 ```
 
