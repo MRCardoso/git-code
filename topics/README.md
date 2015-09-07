@@ -1,10 +1,7 @@
-## basic commands of the git
+## early configurations
 
-### init a repository
-### add a files
-### commit file
-### create remote repositories
-### sent to remote repository
-### get changes of the remote repository
-and more... 
+  > git config --global user.name "your-username"
+
+  > git config --global user.email "your-email"
+  
 [begin now](https://github.com/MRCardoso/git-code/blob/master/topics/basic.md)
