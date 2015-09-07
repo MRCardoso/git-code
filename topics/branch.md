@@ -13,5 +13,5 @@
 ### remote
 	git push origin :branch-name
 
-[back](https://github.com/MRCardoso/git-code/blob/master/topics) |
-[next](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md)
+[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics) |
+[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md)
