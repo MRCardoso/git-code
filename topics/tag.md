@@ -23,4 +23,4 @@ stable versions
 	git tag -a hash-commit -m "message"
 
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/checkout.md) |
-[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/push.md)
+[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/reset.md)
