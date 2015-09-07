@@ -1,6 +1,6 @@
 ## Topic commit
 ```
-get all changes that are in stage area
+get all changes that are in staged area
 and create a version for this changes
 when your digit 'git commit' and press [ENTER]
 your editor default will be open for you set your message
