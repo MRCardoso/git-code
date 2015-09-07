@@ -1,6 +1,8 @@
 ## Topic add files in the staged area
 ```
-    for files created after your repository have been started, you must use 'git add filename'
+get the file change located in your work copy
+and sends to stage area
+for unversioned files you must use 'git add filename'
 ```
 
 ### simple
