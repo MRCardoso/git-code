@@ -3,11 +3,11 @@
     git clone [url-repository] [dir-name](optional)
     
 ## Push repository
-    		git push [remote-reposotory] [name-branch]
+    	git push [remote-reposotory] [name-branch]
 	Remove a remote branch
-    		git push [remote-reposotory] :name-branch
+    	git push [remote-reposotory] :name-branch
 	Remove a remote tag
-    		git push [remote-reposotory] :refs/tags/name-tag
+    	git push [remote-reposotory] :refs/tags/name-tag
 	Sending tags
 		git push [remote-reposotory] [name-branch] --tags
 
