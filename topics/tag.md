@@ -11,8 +11,9 @@
 	
 ### Checkout in a tag
 	git checkout
-* -b branch-name | create a new branch in a specify tag
-* name-tag
+* **parameters**
+	* -b branch-name | create a new branch in a specify tag
+	* name-tag
 	
 ### List the all tags
 	git tag -l
