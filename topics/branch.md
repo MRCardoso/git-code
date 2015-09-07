@@ -1,4 +1,7 @@
 ## Topic branchs
+```
+when a new branch is created, he will have all file according the current branch
+```
 
 ### List all branch
 	git branch
