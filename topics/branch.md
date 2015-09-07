@@ -1,11 +1,11 @@
-	git branch
-> **parameters**
-* without params list all
-* name-branch | create a new
-* -D name-branch remove locally
+## Topic branchs
 
-## Remove a remote branch
-	git push origin :name-branch
+### List all branch
+	git branch
+### Create a new branch
+	git branch name-branch
+### Remove a local branch
+	git branch -D name-branch
 
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/basic.md) |
 [next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/checkout.md)
