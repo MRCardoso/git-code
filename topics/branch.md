@@ -1,6 +1,7 @@
 ## Topic branchs
 ```
 when a new branch is created, he will have all file according the current branch
+when you clones a repository, already comes a default branch 'master'
 ```
 
 ### list all branch
