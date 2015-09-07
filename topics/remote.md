@@ -1,23 +1,24 @@
 
-## Clone a repository
-    git clone [url-repository] [dir-name](optional)
+## clone a repository
+	git clone [url-repository] [dir-name](optional)
     
-## Push repository
-    	git push [remote-reposotory] [name-branch]
-### Remove a remote branch
+## push repository
+	git push [remote-reposotory] [name-branch]
+### remove a remote branch
     	git push [remote-reposotory] :name-branch
-### Remove a remote tag
+### remove a remote tag
     	git push [remote-reposotory] :refs/tags/name-tag
-### Sending tags
+### sending tags
 	git push [remote-reposotory] [name-branch] --tags
 
-## Pull a repository
+### pull a repository
     git pull [remote-reposotory] [name-branch]
     
-## Remote url
-    git remote
-> **parameters**
-* add [short-name] [url]
-* -v | show the url of the remote
-
+### list all remote
+	git remote
+### show the url of the remote
+	git remote -v
+### add a new remote
+    git remote add name url
+  
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md)
