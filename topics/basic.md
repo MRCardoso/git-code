@@ -5,8 +5,6 @@
 ### create a README.md file
 	vim touch README.md
 	
-### Copy this code in README.md
-
 ### add README.md
 	git add README.md
 ### commit file
