@@ -10,10 +10,10 @@
 ### create in an old commit
 	git tag -a hash-commit -m "message"
 
-### Show details of the a tag
+### show details of the a tag
 	git show name-tag
 	
-### List all tags
+### list all tags
 	git tag -l
 
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/checkout.md) |
