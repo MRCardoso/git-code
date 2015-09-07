@@ -2,12 +2,14 @@
 
 ### checkout in a branch
     git checkout name-branch
+### checkout in a tag
+    git checkout name-tag
+### checkout in the commit specific
+    git checkout hash-commit
 ### undoes changes in working copy (return file to last commit)
     git checkout filename
 ### checkout and create a new branch
     git checkout -b name-branch
-### checkout in a tag
-    git checkout name-tag
 ### checkout in a tag and create a branch
     git checkout -b name-tag
     
