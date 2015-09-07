@@ -19,3 +19,5 @@
 > **parameters**
 * add [short-name] [url]
 * -v | show the url of the remote
+
+[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md)
