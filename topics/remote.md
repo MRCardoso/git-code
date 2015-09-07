@@ -1,8 +1,7 @@
 
 ## Topic remote
 ```
-are url for a remote repository, 
-where your push and pull are used
+	Are url for a remote repository, where your push and pull are used
 ```
 ### list all remote
 	git remote
@@ -14,7 +13,7 @@ where your push and pull are used
 
 ## Topic clone
 ```
-copy a remote repository for your machine
+	Copy a remote repository for your machine, 
 can be ssh(authentication by a public key) 
 or https (authentication by your credentials of the github)
 ```
