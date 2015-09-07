@@ -11,7 +11,12 @@
 * (staged area | git add)
 * (sending to repository | git commit)
 
-### init a repository
-    git init
-  
-[begin now](https://github.com/MRCardoso/git-code/blob/master/topics/basic.md)
+# Topics
+* [basic](https://github.com/MRCardoso/git-code/blob/master/topics/basic.md)
+* [add](https://github.com/MRCardoso/git-code/blob/master/topics/add.md)
+* [commit](https://github.com/MRCardoso/git-code/blob/master/topics/commit.md)
+* [branch](https://github.com/MRCardoso/git-code/blob/master/topics/branch.md)
+* [checkout](https://github.com/MRCardoso/git-code/blob/master/topics/checkout.md)
+* [tag](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md)
+* push
+* [remote](https://github.com/MRCardoso/git-code/blob/master/topics/remote.md)
