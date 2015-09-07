@@ -1,11 +1,14 @@
 
-### Topic tag
+## Topic tag
+
+### create a new
 	git tag name-tag
-> **parameters**
-* -d name-tag
-* -a create a annotation
-* hash-commit after '-a' create in an old commit
-* -m "message" set a message
+### remove locally
+	git tag -d name-tag
+### create a annotation
+	git tag -a -m "message"
+### create in an old commit
+	git tag -a hash-commit -m "message"
 
 ### Show details of the a tag
 	git show name-tag
