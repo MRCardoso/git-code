@@ -2,6 +2,7 @@
 ## Topic tag
 ```
 Are releases of the your project, pointers for a specific commit
+stable versions
 ```
 ### list all tags
 	git tag -l
