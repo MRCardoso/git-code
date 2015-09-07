@@ -8,7 +8,7 @@
 ### show the url of the remote
 	git remote -v
 ### add a new remote
-    git remote add name url
+    git remote add name-url
     
 
 ## Topic clone
