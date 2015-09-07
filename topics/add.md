@@ -1,10 +1,13 @@
 ## Topic add files in the staged area
+```
+    for files created after your repository have been started, you must use 'git add filename'
+```
 
-### Simple
+### simple
     git add filename
-### All files already commited least at a turn
+### all files already commited least at a turn
     git add .
-### All files of the extension
+### all files of the extension
     git add *.extension
     
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/basic.md) |
