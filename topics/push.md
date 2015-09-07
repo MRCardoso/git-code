@@ -7,13 +7,13 @@ or a github repository in the web
 ```
 	
 ### sending to remote repository
-    git push remote-reposotory name-branch
+    git push remote-repository name-branch
 ### remove a remote branch
-    git push remote-reposotory :name-branch
+    git push remote-repository :name-branch
 ### remove a remote tag
-    git push remote-reposotory :refs/tags/name-tag
+    git push remote-repository :refs/tags/name-tag
 ### sending tags
-	  git push remote-reposotory name-branch --tags
+	  git push remote-reposirtory name-branch --tags
 	  
 ## Topic pull
 ```
