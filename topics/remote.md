@@ -9,4 +9,4 @@
 ### add a new remote
     git remote add name url
   
-[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md)
+[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/push.md)
