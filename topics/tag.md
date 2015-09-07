@@ -1,7 +1,7 @@
 
 ### Create a tag
 	git tag name-tag
-	*parameters*
+	parameters
 	* -a create a annotation
 	* hash-commit after '-a' create in an old commit
 	* -m "message" set a message
@@ -9,8 +9,11 @@
 ### show details of the a tag
 	git show name-tag
 	
-### checkout in a tag, (use -b for create a new branch in a specify tag)
-	git checkout -b branch-name tag-name
+### checkout in a tag
+	git checkout 
+	parameters 
+	* -b branch-name | create a new branch in a specify tag
+	* tag-name
 	
 ### list the all tags
 	git tag -l
