@@ -13,5 +13,5 @@ you need send it with git push.
 ### remove a local branch
 	git branch -D name-branch
 
-[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/commit.md) |
+[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/push.md) |
 [next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/checkout.md)
