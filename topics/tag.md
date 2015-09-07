@@ -1,25 +1,26 @@
 
 ### Create a tag
 	git tag name-tag
-* -a create a annotation
-* hash-commit after '-a' create in an old commit
-* -m "message" set a message
+* **parameters**
+	* -a create a annotation
+	* hash-commit after '-a' create in an old commit
+	* -m "message" set a message
 
-### show details of the a tag
+### Show details of the a tag
 	git show name-tag
 	
-### checkout in a tag
+### Checkout in a tag
 	git checkout
 * -b branch-name | create a new branch in a specify tag
 * name-tag
 	
-### list the all tags
+### List the all tags
 	git tag -l
 
-### sending to remote repository
+### Sending to remote repository
 	git push origin master --tags
 
-### remove a tag
+### Remove a tag
 * **locally**
 	* git tag -d name-tag
 * **remote**
