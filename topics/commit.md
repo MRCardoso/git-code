@@ -1,13 +1,13 @@
 ## Topic commit
 
-### Simple commit
+### simple commit
     git commit -m "message"
 
-### Write a long message
+### write a long message
     git commit
     (your editor default will be open for you set your message)
     
-### Add and commit
+### add and commit
     git commit -a -m "message"
 
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/add.md) |
