@@ -1,3 +1,0 @@
-testing a remove of the remote branch
-command 
-git push origin :branch-name
