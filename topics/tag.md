@@ -1,10 +1,10 @@
 
 ### Create a tag
 	git tag name-tag
-	parameters
-	* -a create a annotation
-	* hash-commit after '-a' create in an old commit
-	* -m "message" set a message
+	* parameters
+		* -a create a annotation
+		* hash-commit after '-a' create in an old commit
+		* -m "message" set a message
 
 ### show details of the a tag
 	git show name-tag
@@ -18,11 +18,13 @@
 ### list the all tags
 	git tag -l
 
-### sent to remove repository
+### sending to remote repository
 	git push origin master --tags
 
 ### remove a tag
-* git tag -d name-tag | locally
-* git push origin :refs/tags/name-tag | remote
+* **locally**
+	* git tag -d name-tag
+* **remote**
+	* git push origin :refs/tags/name-tag
 
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/branch.md)
