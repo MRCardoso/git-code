@@ -27,5 +27,5 @@ and in the majority of times he makes the 'auto merge' with your local files
 	git pull remote-repository name-branch
 
 	  
-[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md) |
-[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/remote.md)
+[&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/remote.md) |
+[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/branch.md)
