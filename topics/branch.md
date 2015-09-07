@@ -1,4 +1,3 @@
-## create
 	git branch
 > **parameters**
 * without params list all
