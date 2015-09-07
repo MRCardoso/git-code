@@ -1,10 +1,7 @@
 
 ## clone a repository
 	git clone [url-repository] [dir-name](optional)
-
-### pull a repository
-    git pull [remote-reposotory] [name-branch]
-    
+	
 ### list all remote
 	git remote
 ### show the url of the remote
