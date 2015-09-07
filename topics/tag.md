@@ -17,4 +17,4 @@
 	git tag -l
 
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/checkout.md) |
-[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/remote.md)
+[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/push.md)
