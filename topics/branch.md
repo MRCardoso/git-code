@@ -13,5 +13,16 @@ you need send it with git push.
 ### remove a local branch
 	git branch -D name-branch
 
+
+## Topic merge
+```
+when you create a new branch and modify things in it, after finish the changes,
+for the branch main also have these changes is required makes a merge in the branch main, 
+for this you need be in branch that goes receive the changes
+```
+
+### merge changes in branch main
+	git merge child-branch
+	
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/push.md) |
 [next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/checkout.md)
