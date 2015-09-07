@@ -1,10 +1,11 @@
-## early configurations
+## Early configurations
 
   > git config --global user.name "your-username"
 
   > git config --global user.email "your-email"
   
-three stages  
+### Three stages  
+
 * (work directory | modifying files)
 * (staged area | git add)
 * (sending to repository | git commit)
