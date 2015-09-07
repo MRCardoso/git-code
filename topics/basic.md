@@ -1,4 +1,3 @@
-# Basic commands for git
 
 ### initialize local repository git
 	 git init
