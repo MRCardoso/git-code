@@ -4,7 +4,7 @@
 * name-branch | create a new
 * -D name-branch remove locally
 
-## remove a ramote branch
+## remove a remote branch
 	git push origin :name-branch
 
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/basic.md) |
