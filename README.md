@@ -13,5 +13,8 @@
 ### push the file for repository in github
 	git push origin master
 with vim use 'esc :wq' to save the file and go back terminal
+
 ```
+
+#***thanks code.education for this knowledge acquired!***
 
