@@ -1,8 +1,8 @@
 
-## Cloning a repository
+## Clone a repository
     git clone [url-repository] [dir-name](optional)
     
-## Pushing repository
+## Push repository
     		git push [remote-reposotory] [name-branch]
 	Remove a remote branch
     		git push [remote-reposotory] :name-branch
