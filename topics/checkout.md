@@ -11,7 +11,7 @@
 ### checkout and create a new branch
     git checkout -b name-branch
 ### checkout in a tag and create a branch
-    git checkout -b name-tag
+    git checkout -b name-branch name-tag
     
 [&laquo; back](https://github.com/MRCardoso/git-code/blob/master/topics/branch.md) |
 [next &raquo;](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md)
