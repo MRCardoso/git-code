@@ -6,7 +6,7 @@
     git checkout name-tag
 ### checkout in the commit specific
     git checkout hash-commit
-### undoes changes in working copy (return file to last commit)
+### undoes changes in working copy
     git checkout filename
 ### checkout and create a new branch
     git checkout -b name-branch
