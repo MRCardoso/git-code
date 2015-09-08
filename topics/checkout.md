@@ -4,7 +4,7 @@
     git checkout name-branch
 ### checkout in a tag
     git checkout name-tag
-### checkout in the commit specific
+### checkout in a commit specific
     git checkout hash-commit
 ### undoes changes in working copy
     git checkout filename
