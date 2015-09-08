@@ -12,7 +12,7 @@ Are releases of the your project, pointers for a specific commit stable versions
 ### create a new
 	git tag name-tag
 	
-### create a annotation
+### create an annotation
 	git tag -a -m "message"
 
 ### create in an old commit
