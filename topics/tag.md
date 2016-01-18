@@ -13,7 +13,7 @@ Are releases of the your project, pointers for a specific commit stable versions
 	git tag name-tag
 	
 ### create an annotation
-	git tag -a -m "message"
+	git tag -a name-tag -m "message"
 
 ### create in an old commit
 	git tag -a hash-commit -m "message"
