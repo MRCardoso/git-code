@@ -16,5 +16,19 @@ with vim use 'esc :wq' to save the file and go back terminal
 
 ```
 
+### list of the schema of the permissions for the files
+
+|Permission|Binary|Decimal|
+|----------|------|-------|
+|    ---   |  000 |   0   |
+|    --x   |  001 |   1   |
+|    -w-   |  010 |   2   |
+|    -wx   |  011 |   3   |
+|    r--   |  100 |   4   |
+|    r-x   |  101 |   5   |
+|    rw-   |  110 |   6   |
+|    rwx   |  111 |   7   |
+|----------|------|-------|
+
 ###***Thanks code.education for this knowledge acquired!***
 
