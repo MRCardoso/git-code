@@ -22,4 +22,7 @@
 * [tag](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md)
 * [reset](https://github.com/MRCardoso/git-code/blob/master/topics/reset.md)
 
-  [see more](https://git-scm.com/doc)
+
+## See documentation
+
+  [view...](https://git-scm.com/doc)
