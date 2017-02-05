@@ -9,7 +9,7 @@
 
 * (work directory | modifying files)
 * (staged area | git add)
-* (sending to repository | git commit)
+* (local repository | git commit)
 
 # Topics
 * [basic](https://github.com/MRCardoso/git-code/blob/master/topics/00-first-steps.md)
