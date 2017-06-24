@@ -14,6 +14,8 @@
 	git push origin master
 with vim use 'esc :wq' to save the file and go back terminal
 
+## in script directory exists the shell scripts to create and delete a repository from github
+
 ```
 
 ### list of the schema of the permissions for the files
