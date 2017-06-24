@@ -1,15 +1,13 @@
-# create and remove a repository easily
+# Create and remove a repository easily
 
-## Start
+## run in terminal
 
-replace the USER:PASSWORD by your own data of the git account
-
-## Create a Repository, run in terminal the 'create.sh'
+Create a repository, and create README.MD and .gitignore
 ````
-    $ ./create.sh YOUR-REPOSITORY-NAME YOU-MESSAGE-FOR-FIRST-COMMIT
+    $ ./create.sh USERNAME PASSWORD REPOSITORY FIRST-COMMIT-MESSAGE
 ````
 
-## Remove a Repository and local .git, run in terminal the 'remove.sh'
+Remove a repository, and delete local files README.MD, .gitignore, .git
 ````
-    $ ./create.sh YOUR-REPOSITORY-NAME
+    $ ./create.sh USERNAME PASSWORD REPOSITORY
 ````
