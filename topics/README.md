@@ -5,6 +5,12 @@
   email
     git config --global user.email "your-email"
 ```
+
+## Count file changes
+```
+git status | grep 'modified:' | wc -l
+```
+
 ### Three stages  
 
 * (work directory | modifying files)
