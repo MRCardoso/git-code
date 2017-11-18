@@ -10,11 +10,23 @@ then
     me=$(echo $lastTag | cut -d. -f 2)
     ph=$(echo $lastTag | cut -d. -f 3)
 
+    if [ -z $ma ] 
+    then ma="0"
+    fi
+    
+    if [ -z $me ] 
+    then me="0"
+    fi
+    
+    if [ -z $ph ] 
+    then ph="0"
+    fi
+
     case "$3" in
         'major')
             ma=$((++ma))
             ;;
-        'mejor')
+        'minor')
             me=$((++me))
             ;;
         *)
