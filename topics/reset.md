@@ -12,6 +12,8 @@ undoing things
     is required use the command 'git push -f' for forne the change locally to be send
     
 ### reset to a commit previous
+    git reset HEAD~
+    The reset command is only recommend for the last commit, when not was pushed to the remote repository still
     specify after ~[n-commit that want go back]
     git reset HEAD~n-commit --soft
     --soft remove the commit without destroy the files
