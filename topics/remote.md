@@ -9,8 +9,8 @@
 	git remote -v
 ### add a new remote
     git remote add name-url
-## change current remote
-    git remote add name-url
+## change current origin
+    git remote set-url origin name-url
     
 
 ## Topic clone
