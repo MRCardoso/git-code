@@ -1,22 +1,37 @@
-```
-# Basic commands for git
-### initialize local repository git
- 	 git init
-### add README.md
-	touch README.md && git add README.md
-### commit file
-	git commit -m "my first commit"
+## Basic commands
 
-### create a remote repository
-	git remote add origin git@github.com:MRCardoso/git-code.git
+|Name|Command|
+|----------|------|
+|    config user   |  git config --global user.name "your-username" |
+|    config email   |  git config --global user.email "your-email" |
+|    list config   |  git config --list |
+|    show current branch   |  git branch --show-current |
+|    who last modified each line   |  git blame <filename> |
+|    Count file changes   |  git status | grep 'modified:' | wc -l |
 
-### push the file for repository in github
-	git push origin master
-with vim use 'esc :wq' to save the file and go back terminal
+### Three stages  
 
-## in script directory exists the shell scripts to create and delete a repository from github
+|Stage|Action|
+|----------|------|
+|    modifying files   |  work directory |
+|    staged area   |  git add |
+|    local repository   |  git commit |
 
-```
+# Topics
+* [basic](https://github.com/MRCardoso/git-code/blob/master/topics/00-first-steps.md)
+* [add](https://github.com/MRCardoso/git-code/blob/master/topics/add.md)
+* [commit](https://github.com/MRCardoso/git-code/blob/master/topics/commit.md)
+* [remote](https://github.com/MRCardoso/git-code/blob/master/topics/remote.md)
+* [push](https://github.com/MRCardoso/git-code/blob/master/topics/push.md)
+* [branch](https://github.com/MRCardoso/git-code/blob/master/topics/branch.md)
+* [checkout](https://github.com/MRCardoso/git-code/blob/master/topics/checkout.md)
+* [tag](https://github.com/MRCardoso/git-code/blob/master/topics/tag.md)
+* [reset](https://github.com/MRCardoso/git-code/blob/master/topics/reset.md)
+
+
+## See documentation
+
+  [view...](https://git-scm.com/doc)
 
 ### list of the schema of the permissions for the files
 
